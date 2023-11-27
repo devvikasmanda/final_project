@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.vamshi</groupId>
     <artifactId>currency-conversion</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>23.11.1-SNAPSHOT</version>
     <name>currency-conversion</name>
     <description>currency-conversion</description>
     <properties>
